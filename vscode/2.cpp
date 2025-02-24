@@ -20,5 +20,6 @@ int main()
     cin>>s1;
     cout<<s1<<endl;
 	cout<<s1<<endl;
+    system("pause");
 	return 0;
 }
